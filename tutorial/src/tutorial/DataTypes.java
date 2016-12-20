@@ -21,3 +21,4 @@ class DataTypes{
        System.out.println("Value Of char Variable is " + charVar);
     }
 }
+
