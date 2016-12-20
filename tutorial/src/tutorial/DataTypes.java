@@ -8,8 +8,8 @@ class DataTypes{
        long longVar = 60;
        float floatVar = 20;
        double doubleVar = 20.123;
-       boolean booleanVar = true;
-       char charVar ='W';
+       boolean booleanVar = false;
+       char charVar ='D';
    
        System.out.println("Value Of byte Variable is " + byteVar);
        System.out.println("Value Of short Variable is " + shortVar);
