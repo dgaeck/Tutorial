@@ -11,7 +11,7 @@ class DataTypes{
        boolean booleanVar = false;
        char charVar ='D';
    
-       System.out.println("Value Of byte Variable is " + byteVar);
+       System.out.println("Value Of byte1 Variable is " + byteVar);
        System.out.println("Value Of short Variable is " + shortVar);
        System.out.println("Value Of int Variable is " + intVar);
        System.out.println("Value Of long Variable is " + longVar);
