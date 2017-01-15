@@ -6,7 +6,7 @@ class DataTypes{
        short shortVar = 20;
        int intVar = 30;
        long longVar = 60;
-       float floatVar = 20;
+       float floatVar = 21;
        double doubleVar = 20.123;
        boolean booleanVar = false;
        char charVar ='D';
